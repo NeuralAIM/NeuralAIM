@@ -1,3 +1,5 @@
+# Neural AIM For CS:GO
+
 | Function      | Free| Pro |
 | ------------- |:---:|:---:|
 | AIM           | Yes | Yes |
